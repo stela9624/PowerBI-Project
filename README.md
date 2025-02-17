@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/7465f244-b758-4840-b058-804aae91aa2d)
+
 # PowerBI-Project
 Power BI Sales Performance Dashboard Analysis
 Project Name: BigBasket Sales Performance Analysis Dashboard
